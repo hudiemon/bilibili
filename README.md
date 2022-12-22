@@ -1,4 +1,4 @@
-# ![favicon.ico](assets/favicon.ico) 哔哩哔哩
+# ![favicon](https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://bilibili.com&size=64) 哔哩哔哩
 ## 👉[设置 github action 保姆级教程](https://github.com/hudiemon/course/blob/main/README.md)👈
 ## 任务列表
 | 任务名称      | 支持情况 | Secrets          |
