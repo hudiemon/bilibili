@@ -1,10 +1,11 @@
 # ![favicon](https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://bilibili.com&size=64) 哔哩哔哩
 ## 👉[设置 github action 保姆级教程](https://github.com/hudiemon/course/blob/main/README.md)👈
 ## 任务列表
-| 任务名称      | 支持情况 | Secrets          |
-|-----------|------|------------------|
-| 直播签到      | ✅    | `COOKIE`         |
-| 飞书webhook | ✅    | `WEBHOOK_FEISHU` | 
+| 任务名称        | 支持情况 | Secrets          |
+|-------------|------|------------------|
+| 直播签到        | ✅    | `COOKIE`         |
+| 飞书webhook   | ✅    | `WEBHOOK_FEISHU` | 
+| 企业微信webhook | ✅    | `WEBHOOK_WEIXIN` | 
 ## 免责声明
 1. 本仓库发布的脚本及其中涉及的任何解锁和解密分析脚本，仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。
 
